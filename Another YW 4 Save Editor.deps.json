@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Another YW 4 Save Editor/1.0.0": {
+        "dependencies": {
+          "MXQ": "1.0.2"
+        },
+        "runtime": {
+          "Another YW 4 Save Editor.dll": {}
+        }
+      },
+      "MXQ/1.0.2": {
+        "runtime": {
+          "lib/net6.0/MXQ.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Another YW 4 Save Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MXQ/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-as9DUjfCaJ3US2WHqyXTcHCnHlPgiqKhI6Q6ambVCGfMrhd+EfYl2CUOWWw6SXAdaOyPWVXTGcbOvP7col+RUA==",
+      "path": "mxq/1.0.2",
+      "hashPath": "mxq.1.0.2.nupkg.sha512"
+    }
+  }
+}
